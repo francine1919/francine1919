@@ -15,7 +15,8 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars&count_private=true&include_all_commits=true&)
 
 <div>
   <br>
