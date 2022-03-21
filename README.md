@@ -1,12 +1,16 @@
-### Hey! 
+### Hey! ✌👋
 
-<h4>I am Francine, an aspiring Full Stack Web Developer.</h4>
-
-<div style="display:inline_block">
- <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
-</div>
+<h2>I am Francine, an aspiring Web Developer. 👋</h4>
 <br>
-🌱 I’m currently learning React, JavaScript, Typescript, NodeJs and Jest .
+<br>
+👩‍💻 Web Full Stack student at Labenu.
+<br>
+
+<!-- <div style="display:inline_block">
+ <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
+</div> -->
+<br>
+📚 I’m currently learning React, JavaScript, Typescript, NodeJs and Jest .
 <br>
 <br>
 👯 I’m looking to collaborate on Web Development projects.
