@@ -24,6 +24,7 @@
 <div>
 <br>
   <h2>Languages</h2>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=vue&langs_count=8"/> 
 <div style="display:inline_block"><br>
  <img align="center" height="40" width="40" alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
  <img align="center" height="40" width="40" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>  
