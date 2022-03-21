@@ -15,9 +15,10 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919)](https://github.com/anuraghazra/github-readme-stats&hide=stars,issues&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars)
+
 <div>
- 
+  <br>
 <h2>Languages</h2>
 <div style="display:inline_block"><br>
  <img align="center" height="40" width="40" alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -40,7 +41,7 @@
  <img align="center" alt="Linked icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
-<!--   Comentários -->
+<!--   Comments -->
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues"/> -->
 </div>
  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=dracula&langs_count=5"/> -->
