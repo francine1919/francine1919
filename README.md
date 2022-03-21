@@ -15,10 +15,9 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francine1919)](https://github.com/anuraghazra/github-readme-stats&hide=stars,issues&theme=vue)
 <div>
-
-</div>
+ 
 <h2>Languages</h2>
 <div style="display:inline_block"><br>
  <img align="center" height="40" width="40" alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -42,10 +41,9 @@
 </div>
 
 <!--   Comentários -->
-<!-- Picrewの「AmphyPop Doll Maker」でつくったよ！ <img src="https://picrew.me/share?cd=24wg8DMsdc"/>   -->
-  <!--     <a href="https://github.com/francine1919"> -->
-   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=dracula&langs_count=5"/> -->
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues"/> -->
+</div>
+ <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=dracula&langs_count=5"/> -->
   
 
   <!--
