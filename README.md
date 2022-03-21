@@ -1,4 +1,4 @@
-### Hey! ✌👋
+### Hey! ✌
 
 <h2>I am Francine, an aspiring Web Developer. 👋</h4>
 <br>
