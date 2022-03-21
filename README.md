@@ -30,8 +30,8 @@
  <img align="center" height="40" width="40" alt="TypeScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
  <!--  <img  align="center" height="40" width="40" alt="Visual Code icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
 </div>
-<!--  ![Snake animation](https://github.com/francine1919/francine1919/blob/output/github-contribution-grid-snake.svg) -->
- 
+  <div>![Snake animation](https://github.com/francine1919/francine1919/blob/output/github-contribution-grid-snake.svg) </div>
+ ![Snake animation](https://github.com/francine1919/francine1919/blob/output/github-contribution-grid-snake.svg) 
  <br>
   <br>
   <hr>
