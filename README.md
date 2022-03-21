@@ -1,11 +1,11 @@
-### Hey! ✌
+<div style="display:inline" style="font-size:50px">
+<h2>Hello there!</h2> <img align="center" src="https://icongr.am/fontawesome/child.svg?size=50&color=5FC397&colored=false"/> 
+<div/>
 
 <h2>I am Francine, an aspiring Web Developer. 👋</h4>
 <br>
-<br>
 👩‍💻 Web Full Stack student at Labenu.
 <br>
-
 <!-- <div style="display:inline_block">
  <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
 </div> -->
