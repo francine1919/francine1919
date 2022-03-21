@@ -18,24 +18,26 @@
 <br>
 <br>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars&count_private=true&include_all_commits=true&"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars&count_private=true&include_all_commits=true&"/>  
 </div>
 
-<div>
-<br>
-  <h2>Languages</h2>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=vue&langs_count=8"/> 
+<h2>Languages</h2>
 <div style="display:inline_block"><br>
- <img align="center" height="40" width="40" alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
- <img align="center" height="40" width="40" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>  
- <img align="center" height="40" width="40" alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
- <img align="center" height="40" width="40" alt="ReactJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
- <img align="center" height="40" width="40" alt="Jest icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
- <img align="center" height="40" width="40" alt="NodeJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" height="40" width="40" alt="TypeScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
+  <img align="center" height="40" width="40" alt="HTML icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" height="40" width="40" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>  
+  <img align="center" height="40" width="40" alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="40" width="40" alt="ReactJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" height="40" width="40" alt="Jest icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" height="40" width="40" alt="NodeJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="40" width="40" alt="TypeScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
  <!--  <img  align="center" height="40" width="40" alt="Visual Code icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
 </div>
+
  <br>
+ <br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=vue&langs_count=8"/> 
+ <br>
+
  <br>
  <img src="https://github.com/francine1919/francine1919/blob/output/github-contribution-grid-snake.svg"/>
  <br>
