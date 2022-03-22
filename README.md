@@ -34,9 +34,9 @@
 </div>
 
  <br>
- <br>
+<!--  <br>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=vue&langs_count=8"/> 
- <br>
+ <br> -->
 
  <br>
  <img src="https://github.com/francine1919/francine1919/blob/output/github-contribution-grid-snake.svg"/>
