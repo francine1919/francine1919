@@ -27,10 +27,10 @@
   <img align="center" height="40" width="40" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>  
   <img align="center" height="40" width="40" alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" height="40" width="40" alt="ReactJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" height="40" width="40" alt="Jest icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<!--   <img align="center" height="40" width="40" alt="Jest icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -->
   <img align="center" height="40" width="40" alt="NodeJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="40" width="40" alt="TypeScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
- <!--  <img  align="center" height="40" width="40" alt="Visual Code icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
+  <img  align="center" height="40" width="40" alt="MyQSL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
  <br>
