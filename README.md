@@ -4,7 +4,7 @@
 
 <h2>I am Francine, an aspiring Web Developer. 👋</h4>
 <br>
-👩‍💻 Web Full Stack ceveloper.
+👩‍💻 Web Full Stack developer.
 <br>
 <!-- <div style="display:inline_block">
  <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
