@@ -4,13 +4,13 @@
 
 <h2>I am Francine, an aspiring Web Developer. 👋</h4>
 <br>
-👩‍💻 Web Full Stack student at Labenu.
+👩‍💻 Web Full Stack ceveloper.
 <br>
 <!-- <div style="display:inline_block">
  <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
 </div> -->
 <br>
-📚 I’m currently learning React, JavaScript, Typescript, NodeJs and Jest .
+📚 I’m currently learning React, JavaScript, Typescript, NodeJs and MySQL .
 <br>
 <br>
 👯 I’m looking to collaborate on Web Development projects.
