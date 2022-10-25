@@ -2,7 +2,7 @@
 <h2>Hello there!</h2> <img align="center" src="https://icongr.am/fontawesome/child.svg?size=50&color=5FC397&colored=false"/> 
 <div/>
 
-<h2>I am Francine, a Web Developer. 👋</h4>
+<h2>I am Francine a Web Developer. 👋</h4>
 <br>
 👩‍💻 Web Full Stack developer.
 <br>
