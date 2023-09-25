@@ -2,7 +2,7 @@
 <h2>Hello there! 👋</h2> <img align="center" src="https://icongr.am/fontawesome/child.svg?size=50&color=5FC397&colored=false"/> 
 <div/>
 
-<h2>Greetings, I'm Francine the software sushi chef, rolling out clean code!🍣🧹✨ </h4>
+<h2>Greetings, I'm Francine the software sushi chef, rolling out clean code!🧹✨ </h4>
 <br>
 👩‍💻 Backend dev, sometimes full stack :).
 <br>
