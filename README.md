@@ -4,13 +4,13 @@
 
 <h2>I am Francine a Web Developer. 👋</h4>
 <br>
-👩‍💻 Web Full Stack developer.
+👩‍💻 Backend dev, sometimes full Stack :).
 <br>
 <!-- <div style="display:inline_block">
  <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
 </div> -->
 <br>
-📚 I’m currently learning React, JavaScript, Typescript, NodeJs and MySQL .
+📚 I’m currently learning NestJs, Typescript and Postgres.
 <br>
 <br>
 👯 I’m looking to collaborate on Web Development projects.
@@ -18,7 +18,7 @@
 <br>
 <br>
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars&count_private=true&include_all_commits=true&"/>  
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=vue&hide=stars&count_private=true&include_all_commits=true&"/>   -->
 </div>
 
 <h2>Languages</h2>
