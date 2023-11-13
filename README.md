@@ -46,24 +46,30 @@
  <br>
  <br>
  <hr>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="Top Languages" />
+</div>
+
+
 <div>
  <a href="https://www.linkedin.com/in/francine-lima-1b2aa75a/">
  <img align="center" alt="Linked icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
 <!--   Comments -->
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues"/> -->
-</div>
- <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=dracula&langs_count=5"/> -->
-  
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine1919&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues"/> 
+</div> -->
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&theme=dracula&langs_count=5"/> 
+ --> 
 
   <!--
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francine1919"
    -->
+  <!--
+ ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)   -->
 
-<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
-
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francine1919)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **francine1919/francine1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
