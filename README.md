@@ -10,7 +10,7 @@
  <img src="https://icongr.am/fontawesome/cogs.svg?size=23&color=99df43&colored=false"/><span>   A developer in development...</span>
 </div> -->
 <br>
-📚 I’m currently learning NestJs, Typescript and Postgres.
+📚 I’m currently learning Python 🐍, Docker 🐳 and MongoDB 🍃.
 <br>
 <br>
 👯 I’m looking to collaborate on Web Development projects.
