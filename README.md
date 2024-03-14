@@ -31,7 +31,7 @@
   <img align="center" height="40" width="40" alt="NodeJs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="40" width="40" alt="TypeScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
   <img align="center" height="40" width="40" alt="MyQSL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="40" width="40" alt="NestJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" height="40" width="40" alt="NestJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" height="40" width="40" alt="Postgres"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
                   
 </div>
